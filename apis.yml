@@ -1,7 +1,12 @@
 aid: land-olakes
-url: https://raw.githubusercontent.com/api-evangelist/land-olakes/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/land-olakes/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.land-olakes.com
+description: >-
+  Land O'Lakes is a member-owned agricultural cooperative providing food, agriculture,
+  and animal nutrition products to farmers, retailers, and consumers, with brands
+  including Land O'Lakes butter and Purina Animal Nutrition.
