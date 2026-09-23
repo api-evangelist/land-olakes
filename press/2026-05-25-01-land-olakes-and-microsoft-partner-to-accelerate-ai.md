@@ -1,7 +1,9 @@
 ---
 title: Land O'Lakes and Microsoft partner to accelerate AI ...
 url: https://news.microsoft.com/source/2025/11/12/land-olakes-and-microsoft-partner-to-accelerate-ai-innovation-in-agriculture/
-date: '2026-05-25'
+published: '2025-11-12'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Land O''Lakes" press release artificial intelligence'
 position: 1
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Land O'Lakes on a roll with new Butter Balls product launch
 url: https://www.prnewswire.com/news-releases/land-olakes-on-a-roll-with-new-butter-balls-product-launch-301567623.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Land O''Lakes" press release artificial intelligence'
 position: 5
 source: serpapi-google
